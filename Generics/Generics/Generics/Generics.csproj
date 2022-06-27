@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Entities\" />
+    <None Remove="Repositories\" />
+    <None Remove="Data\" />
+    <None Remove="Microsoft.EntityFrameworkCore.InMemory" />
+    <None Remove="SpecialCases\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Entities\" />
+    <Folder Include="Repositories\" />
+    <Folder Include="Data\" />
+    <Folder Include="SpecialCases\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="6.0.6" />
+  </ItemGroup>
+</Project>
