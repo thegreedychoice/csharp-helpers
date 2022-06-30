@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "aCdVmA/t31lNKrw0r+fIdHlw5Q02k9psCjk3NGK75Htza9QhagLYQVyYhqSrIDVkBNBCNCL09QwYeT6OL7iTUQ==",
+  "success": true,
+  "projectFilePath": "/Users/shubhamsh/Desktop/src/playground/CSharp-Helpers/Extensions/ExtensionMethods/MyExtensions/Extensions.Configuration/Extensions.Configuration.csproj",
+  "expectedPackageFiles": [
+    "/Users/shubhamsh/.nuget/packages/microsoft.bcl.asyncinterfaces/1.0.0-rc1.19456.4/microsoft.bcl.asyncinterfaces.1.0.0-rc1.19456.4.nupkg.sha512",
+    "/Users/shubhamsh/.nuget/packages/microsoft.extensions.configuration/3.0.0-rc1.19456.10/microsoft.extensions.configuration.3.0.0-rc1.19456.10.nupkg.sha512",
+    "/Users/shubhamsh/.nuget/packages/microsoft.extensions.configuration.abstractions/3.0.0-rc1.19456.10/microsoft.extensions.configuration.abstractions.3.0.0-rc1.19456.10.nupkg.sha512",
+    "/Users/shubhamsh/.nuget/packages/microsoft.extensions.configuration.fileextensions/3.0.0-rc1.19456.10/microsoft.extensions.configuration.fileextensions.3.0.0-rc1.19456.10.nupkg.sha512",
+    "/Users/shubhamsh/.nuget/packages/microsoft.extensions.configuration.json/3.0.0-rc1.19456.10/microsoft.extensions.configuration.json.3.0.0-rc1.19456.10.nupkg.sha512",
+    "/Users/shubhamsh/.nuget/packages/microsoft.extensions.fileproviders.abstractions/3.0.0-rc1.19456.10/microsoft.extensions.fileproviders.abstractions.3.0.0-rc1.19456.10.nupkg.sha512",
+    "/Users/shubhamsh/.nuget/packages/microsoft.extensions.fileproviders.physical/3.0.0-rc1.19456.10/microsoft.extensions.fileproviders.physical.3.0.0-rc1.19456.10.nupkg.sha512",
+    "/Users/shubhamsh/.nuget/packages/microsoft.extensions.filesystemglobbing/3.0.0-rc1.19456.10/microsoft.extensions.filesystemglobbing.3.0.0-rc1.19456.10.nupkg.sha512",
+    "/Users/shubhamsh/.nuget/packages/microsoft.extensions.primitives/3.0.0-rc1.19456.10/microsoft.extensions.primitives.3.0.0-rc1.19456.10.nupkg.sha512",
+    "/Users/shubhamsh/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/shubhamsh/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/shubhamsh/.nuget/packages/system.buffers/4.5.0/system.buffers.4.5.0.nupkg.sha512",
+    "/Users/shubhamsh/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/Users/shubhamsh/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/shubhamsh/.nuget/packages/system.runtime.compilerservices.unsafe/4.6.0-rc1.19456.4/system.runtime.compilerservices.unsafe.4.6.0-rc1.19456.4.nupkg.sha512",
+    "/Users/shubhamsh/.nuget/packages/system.text.encodings.web/4.6.0-rc1.19456.4/system.text.encodings.web.4.6.0-rc1.19456.4.nupkg.sha512",
+    "/Users/shubhamsh/.nuget/packages/system.text.json/4.6.0-rc1.19456.4/system.text.json.4.6.0-rc1.19456.4.nupkg.sha512",
+    "/Users/shubhamsh/.nuget/packages/system.threading.tasks.extensions/4.5.2/system.threading.tasks.extensions.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

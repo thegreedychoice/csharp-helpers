@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = ExtensionMethods.Library
+build_property.ProjectDir = /Users/shubhamsh/Desktop/src/playground/CSharp-Helpers/Extensions/ExtensionMethods/ExtensionMethods/ExtensionMethods.Library/

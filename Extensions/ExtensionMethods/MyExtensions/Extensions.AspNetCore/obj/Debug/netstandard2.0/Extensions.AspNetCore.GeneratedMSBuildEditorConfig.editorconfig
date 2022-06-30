@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Extensions.AspNetCore
+build_property.ProjectDir = /Users/shubhamsh/Desktop/src/playground/CSharp-Helpers/Extensions/ExtensionMethods/MyExtensions/Extensions.AspNetCore/

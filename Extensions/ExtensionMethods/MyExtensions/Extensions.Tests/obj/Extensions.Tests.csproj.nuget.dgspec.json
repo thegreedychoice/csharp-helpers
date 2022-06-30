@@ -1,0 +1,344 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/shubhamsh/Desktop/src/playground/CSharp-Helpers/Extensions/ExtensionMethods/MyExtensions/Extensions.Tests/Extensions.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/shubhamsh/Desktop/src/playground/CSharp-Helpers/Extensions/ExtensionMethods/MyExtensions/Extensions.AspNetCore/Extensions.AspNetCore.csproj": {
+      "version": "0.1.0-pre",
+      "restore": {
+        "projectUniqueName": "/Users/shubhamsh/Desktop/src/playground/CSharp-Helpers/Extensions/ExtensionMethods/MyExtensions/Extensions.AspNetCore/Extensions.AspNetCore.csproj",
+        "projectName": "MegaCorp.Extensions.AspNetCore",
+        "projectPath": "/Users/shubhamsh/Desktop/src/playground/CSharp-Helpers/Extensions/ExtensionMethods/MyExtensions/Extensions.AspNetCore/Extensions.AspNetCore.csproj",
+        "packagesPath": "/Users/shubhamsh/.nuget/packages/",
+        "outputPath": "/Users/shubhamsh/Desktop/src/playground/CSharp-Helpers/Extensions/ExtensionMethods/MyExtensions/Extensions.AspNetCore/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/shubhamsh/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://mia-repo.citrite.net/api/nuget/csg-virtual-nuget-dev": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.StaticFiles": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "NetEscapades.AspNetCore.SecurityHeaders": {
+              "target": "Package",
+              "version": "[0.9.0, )"
+            },
+            "prometheus-net.AspNetCore": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/shubhamsh/Desktop/src/playground/CSharp-Helpers/Extensions/ExtensionMethods/MyExtensions/Extensions.Configuration/Extensions.Configuration.csproj": {
+      "version": "0.1.0-pre",
+      "restore": {
+        "projectUniqueName": "/Users/shubhamsh/Desktop/src/playground/CSharp-Helpers/Extensions/ExtensionMethods/MyExtensions/Extensions.Configuration/Extensions.Configuration.csproj",
+        "projectName": "MegaCorp.Extensions.Configuration",
+        "projectPath": "/Users/shubhamsh/Desktop/src/playground/CSharp-Helpers/Extensions/ExtensionMethods/MyExtensions/Extensions.Configuration/Extensions.Configuration.csproj",
+        "packagesPath": "/Users/shubhamsh/.nuget/packages/",
+        "outputPath": "/Users/shubhamsh/Desktop/src/playground/CSharp-Helpers/Extensions/ExtensionMethods/MyExtensions/Extensions.Configuration/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/shubhamsh/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://mia-repo.citrite.net/api/nuget/csg-virtual-nuget-dev": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.0.0-rc1.19456.10, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.0.0-rc1.19456.10, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/shubhamsh/Desktop/src/playground/CSharp-Helpers/Extensions/ExtensionMethods/MyExtensions/Extensions.Diagnostics/Extensions.Diagnostics.csproj": {
+      "version": "0.1.0-pre",
+      "restore": {
+        "projectUniqueName": "/Users/shubhamsh/Desktop/src/playground/CSharp-Helpers/Extensions/ExtensionMethods/MyExtensions/Extensions.Diagnostics/Extensions.Diagnostics.csproj",
+        "projectName": "MegaCorp.Extensions.Diagnostics",
+        "projectPath": "/Users/shubhamsh/Desktop/src/playground/CSharp-Helpers/Extensions/ExtensionMethods/MyExtensions/Extensions.Diagnostics/Extensions.Diagnostics.csproj",
+        "packagesPath": "/Users/shubhamsh/.nuget/packages/",
+        "outputPath": "/Users/shubhamsh/Desktop/src/playground/CSharp-Helpers/Extensions/ExtensionMethods/MyExtensions/Extensions.Diagnostics/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/shubhamsh/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://mia-repo.citrite.net/api/nuget/csg-virtual-nuget-dev": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components": {
+              "target": "Package",
+              "version": "[3.0.0-rc1.19456.10, )"
+            },
+            "Microsoft.AspNetCore.Components.Web": {
+              "target": "Package",
+              "version": "[3.0.0-rc1.19456.10, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/shubhamsh/Desktop/src/playground/CSharp-Helpers/Extensions/ExtensionMethods/MyExtensions/Extensions.System/Extensions.System.csproj": {
+      "version": "0.1.0-pre",
+      "restore": {
+        "projectUniqueName": "/Users/shubhamsh/Desktop/src/playground/CSharp-Helpers/Extensions/ExtensionMethods/MyExtensions/Extensions.System/Extensions.System.csproj",
+        "projectName": "MegaCorp.Extensions.System",
+        "projectPath": "/Users/shubhamsh/Desktop/src/playground/CSharp-Helpers/Extensions/ExtensionMethods/MyExtensions/Extensions.System/Extensions.System.csproj",
+        "packagesPath": "/Users/shubhamsh/.nuget/packages/",
+        "outputPath": "/Users/shubhamsh/Desktop/src/playground/CSharp-Helpers/Extensions/ExtensionMethods/MyExtensions/Extensions.System/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/shubhamsh/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://mia-repo.citrite.net/api/nuget/csg-virtual-nuget-dev": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Humanizer.Core": {
+              "target": "Package",
+              "version": "[2.7.2, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "morelinq": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/shubhamsh/Desktop/src/playground/CSharp-Helpers/Extensions/ExtensionMethods/MyExtensions/Extensions.Tests/Extensions.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/shubhamsh/Desktop/src/playground/CSharp-Helpers/Extensions/ExtensionMethods/MyExtensions/Extensions.Tests/Extensions.Tests.csproj",
+        "projectName": "Extensions.Tests",
+        "projectPath": "/Users/shubhamsh/Desktop/src/playground/CSharp-Helpers/Extensions/ExtensionMethods/MyExtensions/Extensions.Tests/Extensions.Tests.csproj",
+        "packagesPath": "/Users/shubhamsh/.nuget/packages/",
+        "outputPath": "/Users/shubhamsh/Desktop/src/playground/CSharp-Helpers/Extensions/ExtensionMethods/MyExtensions/Extensions.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/shubhamsh/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://mia-repo.citrite.net/api/nuget/csg-virtual-nuget-dev": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {
+              "/Users/shubhamsh/Desktop/src/playground/CSharp-Helpers/Extensions/ExtensionMethods/MyExtensions/Extensions.AspNetCore/Extensions.AspNetCore.csproj": {
+                "projectPath": "/Users/shubhamsh/Desktop/src/playground/CSharp-Helpers/Extensions/ExtensionMethods/MyExtensions/Extensions.AspNetCore/Extensions.AspNetCore.csproj"
+              },
+              "/Users/shubhamsh/Desktop/src/playground/CSharp-Helpers/Extensions/ExtensionMethods/MyExtensions/Extensions.Configuration/Extensions.Configuration.csproj": {
+                "projectPath": "/Users/shubhamsh/Desktop/src/playground/CSharp-Helpers/Extensions/ExtensionMethods/MyExtensions/Extensions.Configuration/Extensions.Configuration.csproj"
+              },
+              "/Users/shubhamsh/Desktop/src/playground/CSharp-Helpers/Extensions/ExtensionMethods/MyExtensions/Extensions.Diagnostics/Extensions.Diagnostics.csproj": {
+                "projectPath": "/Users/shubhamsh/Desktop/src/playground/CSharp-Helpers/Extensions/ExtensionMethods/MyExtensions/Extensions.Diagnostics/Extensions.Diagnostics.csproj"
+              },
+              "/Users/shubhamsh/Desktop/src/playground/CSharp-Helpers/Extensions/ExtensionMethods/MyExtensions/Extensions.System/Extensions.System.csproj": {
+                "projectPath": "/Users/shubhamsh/Desktop/src/playground/CSharp-Helpers/Extensions/ExtensionMethods/MyExtensions/Extensions.System/Extensions.System.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

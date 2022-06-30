@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/shubhamsh/Desktop/src/playground/CSharp-Helpers/Extensions/ExtensionMethods/ExtensionMethods/ExtensionMethods.Library/ExtensionMethods.Library.csproj": {}
+  },
+  "projects": {
+    "/Users/shubhamsh/Desktop/src/playground/CSharp-Helpers/Extensions/ExtensionMethods/ExtensionMethods/ExtensionMethods.Library/ExtensionMethods.Library.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/shubhamsh/Desktop/src/playground/CSharp-Helpers/Extensions/ExtensionMethods/ExtensionMethods/ExtensionMethods.Library/ExtensionMethods.Library.csproj",
+        "projectName": "ExtensionMethods.Library",
+        "projectPath": "/Users/shubhamsh/Desktop/src/playground/CSharp-Helpers/Extensions/ExtensionMethods/ExtensionMethods/ExtensionMethods.Library/ExtensionMethods.Library.csproj",
+        "packagesPath": "/Users/shubhamsh/.nuget/packages/",
+        "outputPath": "/Users/shubhamsh/Desktop/src/playground/CSharp-Helpers/Extensions/ExtensionMethods/ExtensionMethods/ExtensionMethods.Library/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/shubhamsh/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.EnvironmentVariables": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

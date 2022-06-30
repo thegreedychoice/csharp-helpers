@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/shubhamsh/Desktop/src/playground/CSharp-Helpers/Extensions/ExtensionMethods/MyExtensions/Extensions.Configuration/Extensions.Configuration.csproj": {}
+  },
+  "projects": {
+    "/Users/shubhamsh/Desktop/src/playground/CSharp-Helpers/Extensions/ExtensionMethods/MyExtensions/Extensions.Configuration/Extensions.Configuration.csproj": {
+      "version": "0.1.0-pre",
+      "restore": {
+        "projectUniqueName": "/Users/shubhamsh/Desktop/src/playground/CSharp-Helpers/Extensions/ExtensionMethods/MyExtensions/Extensions.Configuration/Extensions.Configuration.csproj",
+        "projectName": "MegaCorp.Extensions.Configuration",
+        "projectPath": "/Users/shubhamsh/Desktop/src/playground/CSharp-Helpers/Extensions/ExtensionMethods/MyExtensions/Extensions.Configuration/Extensions.Configuration.csproj",
+        "packagesPath": "/Users/shubhamsh/.nuget/packages/",
+        "outputPath": "/Users/shubhamsh/Desktop/src/playground/CSharp-Helpers/Extensions/ExtensionMethods/MyExtensions/Extensions.Configuration/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/shubhamsh/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://mia-repo.citrite.net/api/nuget/csg-virtual-nuget-dev": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.0.0-rc1.19456.10, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.0.0-rc1.19456.10, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

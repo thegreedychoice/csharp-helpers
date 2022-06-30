@@ -1,0 +1,10 @@
+/Users/shubhamsh/Desktop/src/playground/CSharp-Helpers/Extensions/ExtensionMethods/ExtensionMethods/ExtensionMethods.Library/bin/Debug/netstandard2.1/ExtensionMethods.Library.deps.json
+/Users/shubhamsh/Desktop/src/playground/CSharp-Helpers/Extensions/ExtensionMethods/ExtensionMethods/ExtensionMethods.Library/bin/Debug/netstandard2.1/ExtensionMethods.Library.dll
+/Users/shubhamsh/Desktop/src/playground/CSharp-Helpers/Extensions/ExtensionMethods/ExtensionMethods/ExtensionMethods.Library/bin/Debug/netstandard2.1/ExtensionMethods.Library.pdb
+/Users/shubhamsh/Desktop/src/playground/CSharp-Helpers/Extensions/ExtensionMethods/ExtensionMethods/ExtensionMethods.Library/obj/Debug/netstandard2.1/ExtensionMethods.Library.csproj.AssemblyReference.cache
+/Users/shubhamsh/Desktop/src/playground/CSharp-Helpers/Extensions/ExtensionMethods/ExtensionMethods/ExtensionMethods.Library/obj/Debug/netstandard2.1/ExtensionMethods.Library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shubhamsh/Desktop/src/playground/CSharp-Helpers/Extensions/ExtensionMethods/ExtensionMethods/ExtensionMethods.Library/obj/Debug/netstandard2.1/ExtensionMethods.Library.AssemblyInfoInputs.cache
+/Users/shubhamsh/Desktop/src/playground/CSharp-Helpers/Extensions/ExtensionMethods/ExtensionMethods/ExtensionMethods.Library/obj/Debug/netstandard2.1/ExtensionMethods.Library.AssemblyInfo.cs
+/Users/shubhamsh/Desktop/src/playground/CSharp-Helpers/Extensions/ExtensionMethods/ExtensionMethods/ExtensionMethods.Library/obj/Debug/netstandard2.1/ExtensionMethods.Library.csproj.CoreCompileInputs.cache
+/Users/shubhamsh/Desktop/src/playground/CSharp-Helpers/Extensions/ExtensionMethods/ExtensionMethods/ExtensionMethods.Library/obj/Debug/netstandard2.1/ExtensionMethods.Library.dll
+/Users/shubhamsh/Desktop/src/playground/CSharp-Helpers/Extensions/ExtensionMethods/ExtensionMethods/ExtensionMethods.Library/obj/Debug/netstandard2.1/ExtensionMethods.Library.pdb

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "juT5UALIIxgJYL2ZU3G6oU8+HqkU+DyA915lNu8sD+SaZ0EkrGDOffHtpn0MpeGYIGLNBVqeEG9tBc1dFrlHMw==",
+  "success": true,
+  "projectFilePath": "/Users/shubhamsh/Desktop/src/playground/CSharp-Helpers/Extensions/ExtensionMethods/MyExtensions/Extensions.System/Extensions.System.csproj",
+  "expectedPackageFiles": [
+    "/Users/shubhamsh/.nuget/packages/humanizer.core/2.7.2/humanizer.core.2.7.2.nupkg.sha512",
+    "/Users/shubhamsh/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/shubhamsh/.nuget/packages/morelinq/3.2.0/morelinq.3.2.0.nupkg.sha512",
+    "/Users/shubhamsh/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
