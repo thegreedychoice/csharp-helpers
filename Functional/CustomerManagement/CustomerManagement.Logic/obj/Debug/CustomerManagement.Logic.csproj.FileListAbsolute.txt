@@ -1,0 +1,16 @@
+C:\Users\shubhamsh\Desktop\src\playground\github\csharp-helpers\Functional\CustomerManagement\CustomerManagement.Logic\bin\Debug\CustomerManagement.Logic.dll
+C:\Users\shubhamsh\Desktop\src\playground\github\csharp-helpers\Functional\CustomerManagement\CustomerManagement.Logic\bin\Debug\CustomerManagement.Logic.pdb
+C:\Users\shubhamsh\Desktop\src\playground\github\csharp-helpers\Functional\CustomerManagement\CustomerManagement.Logic\bin\Debug\FluentNHibernate.dll
+C:\Users\shubhamsh\Desktop\src\playground\github\csharp-helpers\Functional\CustomerManagement\CustomerManagement.Logic\bin\Debug\Iesi.Collections.dll
+C:\Users\shubhamsh\Desktop\src\playground\github\csharp-helpers\Functional\CustomerManagement\CustomerManagement.Logic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shubhamsh\Desktop\src\playground\github\csharp-helpers\Functional\CustomerManagement\CustomerManagement.Logic\bin\Debug\NHibernate.dll
+C:\Users\shubhamsh\Desktop\src\playground\github\csharp-helpers\Functional\CustomerManagement\CustomerManagement.Logic\bin\Debug\FluentNHibernate.pdb
+C:\Users\shubhamsh\Desktop\src\playground\github\csharp-helpers\Functional\CustomerManagement\CustomerManagement.Logic\bin\Debug\FluentNHibernate.xml
+C:\Users\shubhamsh\Desktop\src\playground\github\csharp-helpers\Functional\CustomerManagement\CustomerManagement.Logic\bin\Debug\Iesi.Collections.xml
+C:\Users\shubhamsh\Desktop\src\playground\github\csharp-helpers\Functional\CustomerManagement\CustomerManagement.Logic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shubhamsh\Desktop\src\playground\github\csharp-helpers\Functional\CustomerManagement\CustomerManagement.Logic\bin\Debug\NHibernate.xml
+C:\Users\shubhamsh\Desktop\src\playground\github\csharp-helpers\Functional\CustomerManagement\CustomerManagement.Logic\obj\Debug\CustomerManagement.Logic.csproj.AssemblyReference.cache
+C:\Users\shubhamsh\Desktop\src\playground\github\csharp-helpers\Functional\CustomerManagement\CustomerManagement.Logic\obj\Debug\CustomerManagement.Logic.csproj.CoreCompileInputs.cache
+C:\Users\shubhamsh\Desktop\src\playground\github\csharp-helpers\Functional\CustomerManagement\CustomerManagement.Logic\obj\Debug\CustomerManagement.Logic.csproj.CopyComplete
+C:\Users\shubhamsh\Desktop\src\playground\github\csharp-helpers\Functional\CustomerManagement\CustomerManagement.Logic\obj\Debug\CustomerManagement.Logic.dll
+C:\Users\shubhamsh\Desktop\src\playground\github\csharp-helpers\Functional\CustomerManagement\CustomerManagement.Logic\obj\Debug\CustomerManagement.Logic.pdb

@@ -1,0 +1,2 @@
+C:\Users\shubhamsh\Desktop\src\playground\github\csharp-helpers\Functional\CustomerManagement\CustomerManagement.Api\obj\Debug\CustomerManagement.Api.csproj.AssemblyReference.cache
+C:\Users\shubhamsh\Desktop\src\playground\github\csharp-helpers\Functional\CustomerManagement\CustomerManagement.Api\obj\Debug\CustomerManagement.Api.csproj.CoreCompileInputs.cache
