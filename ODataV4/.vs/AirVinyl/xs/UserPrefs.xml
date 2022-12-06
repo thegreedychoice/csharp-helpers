@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{7F46EEEC-1162-4976-92FA-7FBD502685AF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AirVinyl/Controllers/PeopleController.cs">
+    <Files>
+      <File FileName="AirVinyl/Controllers/PeopleController.cs" Line="292" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AirVinyl" expanded="True">
+            <Node name="AirVinyl" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.AirVinyl PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
