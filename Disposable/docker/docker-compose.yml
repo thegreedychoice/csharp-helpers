@@ -1,0 +1,22 @@
+services:
+
+  sql-server:
+    image: psdispose/sql-server:2019
+    build:
+      context: sql-server
+      
+  word-count-db:
+    image: psdispose/word-count-db
+    depends_on:
+      - sql-server
+    build:
+      context: word-count-db
+      
+  word-count-api:
+    image: psdispose/word-count-api     
+    build:
+      context: ..
+      dockerfile: ./docker/word-count-api/Dockerfile
+          
+    
+
