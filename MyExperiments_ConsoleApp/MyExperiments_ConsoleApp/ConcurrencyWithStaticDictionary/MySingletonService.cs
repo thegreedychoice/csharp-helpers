@@ -56,5 +56,5 @@ public class MySingletonService : IMySingletonService
         }
         
         // Add to the Singleton Db
-        Console.WriteLine($"MySingletonService_{number}: AddToTheDatabase() - Database Table Count: {MyScopedServiceA.TransactionsCacheScopedServiceA.Count}"); }
+        Console.WriteLine($"MySingletonService_{number}: AddToTheDatabase() - Database Table Count: {_requestDbTable.Count}"); }
 }

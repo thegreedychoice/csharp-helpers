@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/shubhamsh/Desktop/src/playground/backend/MyExperiments_ConsoleApp/MyExperiments_ConsoleApp/MyExperiments_ConsoleApp.csproj": {}
+    "/Users/shubhamsh/Desktop/src/playground/backend/csharp-helpers/csharp-helpers/MyExperiments_ConsoleApp/MyExperiments_ConsoleApp/MyExperiments_ConsoleApp.csproj": {}
   },
   "projects": {
-    "/Users/shubhamsh/Desktop/src/playground/backend/MyExperiments_ConsoleApp/MyExperiments_ConsoleApp/MyExperiments_ConsoleApp.csproj": {
+    "/Users/shubhamsh/Desktop/src/playground/backend/csharp-helpers/csharp-helpers/MyExperiments_ConsoleApp/MyExperiments_ConsoleApp/MyExperiments_ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/shubhamsh/Desktop/src/playground/backend/MyExperiments_ConsoleApp/MyExperiments_ConsoleApp/MyExperiments_ConsoleApp.csproj",
+        "projectUniqueName": "/Users/shubhamsh/Desktop/src/playground/backend/csharp-helpers/csharp-helpers/MyExperiments_ConsoleApp/MyExperiments_ConsoleApp/MyExperiments_ConsoleApp.csproj",
         "projectName": "MyExperiments_ConsoleApp",
-        "projectPath": "/Users/shubhamsh/Desktop/src/playground/backend/MyExperiments_ConsoleApp/MyExperiments_ConsoleApp/MyExperiments_ConsoleApp.csproj",
+        "projectPath": "/Users/shubhamsh/Desktop/src/playground/backend/csharp-helpers/csharp-helpers/MyExperiments_ConsoleApp/MyExperiments_ConsoleApp/MyExperiments_ConsoleApp.csproj",
         "packagesPath": "/Users/shubhamsh/.nuget/packages/",
-        "outputPath": "/Users/shubhamsh/Desktop/src/playground/backend/MyExperiments_ConsoleApp/MyExperiments_ConsoleApp/obj/",
+        "outputPath": "/Users/shubhamsh/Desktop/src/playground/backend/csharp-helpers/csharp-helpers/MyExperiments_ConsoleApp/MyExperiments_ConsoleApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/shubhamsh/.nuget/NuGet/NuGet.Config"

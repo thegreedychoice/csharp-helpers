@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n7BBvHwtsDUDV2kbR+2V3B6oj6ZAPe4FKjj9qJghuD05cGk5AxJI68/Krukb8xHjWSCM5FPMGDNgr/0fM0vJdw==",
+  "dgSpecHash": "67bxA+Mh7ErJuuIfPsHN8QgFj9IrNvsx41qAFEXE2/JVSIeAmEXBB9ucaU8LNfeQQnmHoG8VOMHg+R5sTblPpg==",
   "success": true,
-  "projectFilePath": "/Users/shubhamsh/Desktop/src/playground/backend/MyExperiments_ConsoleApp/MyExperiments_ConsoleApp/MyExperiments_ConsoleApp.csproj",
+  "projectFilePath": "/Users/shubhamsh/Desktop/src/playground/backend/csharp-helpers/csharp-helpers/MyExperiments_ConsoleApp/MyExperiments_ConsoleApp/MyExperiments_ConsoleApp.csproj",
   "expectedPackageFiles": [
     "/Users/shubhamsh/.nuget/packages/microsoft.extensions.configuration/6.0.0/microsoft.extensions.configuration.6.0.0.nupkg.sha512",
     "/Users/shubhamsh/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
